@@ -102,7 +102,7 @@ void SinhVien::show(int a, int c = 5, char b = 'b', char d = 'd') {
     cout << "c = " << c << endl;
     cout << "d = " << d << endl;
 }
-
+//hello tui nè
 int main()
 {
     string lop = "Lop 2";
