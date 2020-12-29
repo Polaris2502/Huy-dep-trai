@@ -1,0 +1,17 @@
+dir : liệt kê các file và 
+thư mục ở vị trí hiện tại
+
+Biên dịch file .cpp thành file .o (object):
+g++ File.cpp -c
+
+Biên dịch file .cpp thành file thực thi .exe:
+g++ File.cpp -o File
+
+Biên dịch các file .o thành fiel thực thi exe:
+g++ -o File object1.o object2.o
+
+Chạy chương trình: ./File.exe
+
+Web tai lieu tham khao:
+https://www.cplusplus.com/
+https://en.cppreference.com/w/
